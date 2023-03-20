@@ -1,6 +1,6 @@
 ### Hi, I'm Richard 🍞
 
-<p>I'm a passionate software engineer specialized in frontend development with years of experience in React, Flutter, and Android development. I have a strong curiosity and always explore new things, keeping myself up-to-date with the latest advancements in technology.</p>
+<p>I'm a passionate software engineer specialized in frontend development in React, Flutter, and Android development. I have a strong curiosity and always explore new things, keeping myself up-to-date with the latest advancements in technology.</p>
 
 <h2>Technical Expertise:</h2>
     <ul>
