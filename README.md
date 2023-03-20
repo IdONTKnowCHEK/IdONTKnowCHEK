@@ -22,8 +22,6 @@
          src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
     <img alt="git"
          src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img alt="NestJs"
-         src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"/>
     <img alt="JavaScript"
          src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img alt="npm"
