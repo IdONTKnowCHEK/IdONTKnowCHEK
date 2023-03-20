@@ -15,7 +15,7 @@
 <p>When I'm not in front of my computer, I love to lock myself in the kitchen and make all kinds of delicious baked goods. My passion for food is as strong as my passion for software engineering, and I believe that this enthusiasm and curiosity will continue to make me a successful software engineer.</p>
 
 <h2>Contact Me:</h2>
-<p>If you want to learn more about my skills, experience, or projects, feel free to contact me. You can find me on the following platforms:</p>
+<p>You can find me on the following platforms:</p>
     <ul>
         <li>GitHub: <a href="https://github.com/IdONTKnowCHEK">IdONTKnowCHEK</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/resultcheng/">Shao Cheng Lu</a></li>
