@@ -1,21 +1,27 @@
-### Hi, I'm Richard👋
-I'm a passionate software engineer specialized in frontend development with years of experience in React, Flutter, and Android development. I have a strong curiosity and always explore new things, keeping myself up-to-date with the latest advancements in technology.
+### Hi, I'm Richard 🍞
 
-Technical Expertise:
-Frontend Development: React, JavaScript, HTML, CSS, Bootstrap, etc.
-Mobile Development: Flutter, Android, Java, etc.
+<p>I'm a passionate software engineer specialized in frontend development with years of experience in React, Flutter, and Android development. I have a strong curiosity and always explore new things, keeping myself up-to-date with the latest advancements in technology.</p>
 
-My Philosophy:
-I believe that the key to success is continuous learning, improvement, and challenging oneself. I always maintain a positive attitude and strive to make every project a success.
+<h2>Technical Expertise:</h2>
+    <ul>
+        <li>Frontend Development: React, JavaScript, HTML, CSS, Bootstrap, etc.</li>
+        <li>Mobile Development: Flutter, Android, Java, etc.</li>
+    </ul>
 
-Inquisitive Baker:
-When I'm not in front of my computer, I love to lock myself in the kitchen and make all kinds of delicious baked goods. My passion for food is as strong as my passion for software engineering, and I believe that this enthusiasm and curiosity will continue to make me a successful software engineer.
+<h2>My Philosophy:</h2>
+<p>I believe that the key to success is continuous learning, improvement, and challenging oneself. I always maintain a positive attitude and strive to make every project a success.</p>
 
-Contact Me:
+<h2>Inquisitive Baker:</h2>
+<p>When I'm not in front of my computer, I love to lock myself in the kitchen and make all kinds of delicious baked goods. My passion for food is as strong as my passion for software engineering, and I believe that this enthusiasm and curiosity will continue to make me a successful software engineer.</p>
 
-GitHub: IdONTKnowCHEK
-LinkedIn: Shao Cheng Lu
-Email: drahcir.lsc@gmail.com
+<h2>Contact Me:</h2>
+<p>If you want to learn more about my skills, experience, or projects, feel free to contact me. You can find me on the following platforms:</p>
+    <ul>
+        <li>GitHub: <a href="https://github.com/IdONTKnowCHEK">IdONTKnowCHEK</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/resultcheng/">Shao Cheng Lu</a></li>
+        <li>Email: <a href="mailto:drahcir.lsc@gmail.com">drahcir.lsc@gmail.com</a></li>
+    </ul>
+
 
 <!--
 **IdONTKnowCHEK/IdONTKnowCHEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
